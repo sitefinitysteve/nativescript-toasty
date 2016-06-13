@@ -1,0 +1,10 @@
+# Nativescript Toasty
+
+Cross platform Toast-style messages created with NativeScript
+
+### Typical development workflow:
+
+1. Make changes to plugin files
+2. Make changes in `demo` that would test those changes out
+3. `npm run demo.ios` or `npm run demo.android`  **(must be run from the root directory)**
+
