@@ -1,5 +1,6 @@
 <Page xmlns="http://schemas.nativescript.org/tns.xsd" loaded="pageLoaded">
   <StackLayout>
-    <Button text="Show Toast" tap="onShowToast" />
+    <Button text="Sup" tap="onShowToast" />
+    <Button text="Weather" tap="onShowWeather" />
   </StackLayout>
 </Page>
